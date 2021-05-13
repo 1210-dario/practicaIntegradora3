@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "titulo": "Hacer ejercicio",
+    "estado": "Terminada"
+  },
+  {
+    "id": 2,
+    "titulo": "Hacer la tarea",
+    "estado": "En progreso"
+  },
+  {
+    "id": 3,
+    "titulo": "Caminar",
+    "estado": "Pendiente"
+  },
+  {
+    "id": 4,
+    "titulo": "Jugar a la play",
+    "estado": "Pendiente"
+  },
+  {
+    "id": 5,
+    "titulo": "Limpiar toda la casa",
+    "estado": "Pendiente"
+  },
+  {
+    "id": 6,
+    "titulo": "cazar",
+    "estado": "Pendiente"
+  },
+  {
+    "id": 7,
+    "titulo": "Cantar",
+    "estado": "Pendiente"
+  }
+]
